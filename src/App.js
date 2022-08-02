@@ -12,7 +12,6 @@ function App() {
             Ristorante Con Fusion
           </NavbarBrand>
         </container>
-
       </Navbar>
       <Menu/>
     </div>
