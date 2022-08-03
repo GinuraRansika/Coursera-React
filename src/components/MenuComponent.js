@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Container, Media } from 'reactstrap';
+import { Container } from 'reactstrap';
 
 // In older React code bases, you may find Class components primarily used. 
 // It is now suggested to use Function components along with Hooks.
